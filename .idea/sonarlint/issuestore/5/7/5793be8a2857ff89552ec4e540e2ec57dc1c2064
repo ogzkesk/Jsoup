@@ -1,0 +1,9 @@
+
+E
+java:S1066r"/Merge this if statement with the enclosing one.(›ö¡
+f	java:S117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üæ×†
+f	java:S117V"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”¸ë
+f
+java:S1301\"KReplace this "switch" statement by "if" statements to increase readability.(‰¬›Áÿÿÿÿÿ
+C	java:S108\")Either remove or fill this block of code.(‰¬›Áÿÿÿÿÿ
+<	java:S131\""Add a default case to this switch.(‰¬›Áÿÿÿÿÿ

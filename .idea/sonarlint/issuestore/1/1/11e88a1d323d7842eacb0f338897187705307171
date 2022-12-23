@@ -1,0 +1,11 @@
+
+f
+java:S1301E"KReplace this "switch" statement by "if" statements to increase readability.(‰¬›Áÿÿÿÿÿ
+y
+java:S1488?"cImmediately return this expression instead of assigning it to the temporary variable "variableSet".(Ã¾ž•
+C	java:S108E")Either remove or fill this block of code.(‰¬›Áÿÿÿÿÿ
+<	java:S131E""Add a default case to this switch.(‰¬›Áÿÿÿÿÿ
+S
+java:S1854N">Remove this useless assignment to local variable "dirtyFlags".(«êð/
+E
+java:S1481L"/Remove this unused "dirtyFlags" local variable.(ŒÐÚ§

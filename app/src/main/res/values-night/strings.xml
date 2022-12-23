@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home">Home</string>
+    <string name="web">Web</string>
+    <string name="fetch">Fetch</string>
+    <string name="year_film_year">Year @{film.year}</string>
+    <string name="search">Search</string>
+    <string name="currency">Currency</string>
+    <string name="sat">Satış</string>
+    <string name="al">Alış</string>
+
+
+</resources>

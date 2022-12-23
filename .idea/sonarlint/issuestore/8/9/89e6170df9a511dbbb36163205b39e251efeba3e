@@ -1,0 +1,18 @@
+
+f	java:S117T"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”¸ë
+f	java:S117g"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÂÈ§
+k	java:S117p"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÃêûÿÿÿÿ
+l	java:S117º"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Ëçûşÿÿÿÿ
+f
+java:S1301_"KReplace this "switch" statement by "if" statements to increase readability.(‰¬›Áÿÿÿÿÿ
+<	java:S131_""Add a default case to this switch.(‰¬›Áÿÿÿÿÿ
+P
+java:S1172g":Remove this unused method parameter "ViewModelDummyImage".(éÂÈ§
+T
+java:S1172p"9Remove this unused method parameter "ViewModelListDummy".(şÃêûÿÿÿÿ
+m
+java:S3776{"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(îÑšåûÿÿÿÿ
+h
+java:S1854É"LRemove this useless assignment to local variable "viewModelResetDummyImage".(óøë ÿÿÿÿÿ
+T
+java:S1481½"=Remove this unused "viewModelResetDummyImage" local variable.(³§Êí

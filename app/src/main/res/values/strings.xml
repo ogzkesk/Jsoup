@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Jsoup App</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="web">Web</string>
+    <string name="fetch">Fetch</string>
+    <string name="year_film_year">Year @{film.year}</string>
+    <string name="search">Search</string>
+    <string name="currency">Currency</string>
+    <string name="sat">Satış</string>
+    <string name="al">Alış</string>
+
+</resources>
